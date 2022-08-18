@@ -1,0 +1,3 @@
+var user = {
+	surname : Mike
+}
